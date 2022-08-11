@@ -5,7 +5,7 @@
 
 ### Queue
 - [Simple Queue](https://github.com/erogluegemen/Data-Structure-and-Algorithm/blob/main/Queue/%5B1%5Dsimple_queue.ipynb)
-- type of queue
+- [Queue Types](https://github.com/erogluegemen/Data-Structure-and-Algorithm/blob/main/Queue/%5B2%5Dtypes_of_queue.ipynb)
 - circular queue
 - priority queue
 - deque queue
