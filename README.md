@@ -1,7 +1,7 @@
 # HackerRank-DataStructure-and-Algorithm
 
 ### Stack
-- [stack](https://github.com/erogluegemen/Data-Structure-and-Algorithm/blob/main/Stack/stack_1.ipynb)
+- [Stack](https://github.com/erogluegemen/Data-Structure-and-Algorithm/blob/main/Stack/stack_1.ipynb)
 
 ### Queue
 - simple
