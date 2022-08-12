@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-### Stack:
+### [Stack](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Stack):
 - [Stack](https://github.com/erogluegemen/Data-Structure-and-Algorithm/blob/main/Stack/stack_1.ipynb)
 
 ### Queue:
