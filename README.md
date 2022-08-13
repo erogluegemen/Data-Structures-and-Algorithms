@@ -1,4 +1,5 @@
 # Data Structures and Algorithms
+- Bu repository <i>'Veri Yapıları ve Algoritma'</i> alanında Türkçe kaynak oluşturma amacı ile hazırlanmıştır. Dokümanları ve kaynak kodları, bütün çeviriler bitince aşağıdaki <b>#Kaynakça</b> bölümünde bulabilirsiniz.
 
 ### [1.) Stack](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Stack):
 - [Stack](https://github.com/erogluegemen/Data-Structure-and-Algorithm/blob/main/Stack/stack_1.ipynb)
