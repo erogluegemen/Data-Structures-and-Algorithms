@@ -12,4 +12,4 @@
 - [Deque Queue](https://github.com/erogluegemen/Data-Structures-and-Algorithms/blob/main/Queue/%5B5%5Ddeque_queue.ipynb)
 
 ### [3.) Linked List](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Linked%20List)
-- [Linked List]()
+- [Linked List](https://github.com/erogluegemen/Data-Structures-and-Algorithms/blob/main/Linked%20List/linked_list.ipynb)
