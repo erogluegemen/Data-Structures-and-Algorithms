@@ -14,6 +14,6 @@
 ### [3.) Linked List](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Linked%20List)
 - [Linked List](https://github.com/erogluegemen/Data-Structures-and-Algorithms/blob/main/Linked%20List/linked_list.ipynb)
 
-### [4.) Hash Table](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Linked%20List)
+### [4.) Hash Table]([https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Linked%20List](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Hash%20Table))
 - [Hash Table](https://github.com/erogluegemen/Data-Structures-and-Algorithms/blob/main/Hash%20Table/hash_table.ipynb)
 
