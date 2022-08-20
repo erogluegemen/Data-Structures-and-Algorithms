@@ -10,5 +10,5 @@
 |[Linked List](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Linked%20List)           |        [{Linked List}](https://github.com/erogluegemen/Data-Structures-and-Algorithms/blob/main/Linked%20List/linked_list.ipynb)       |
 |[Hash Table](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Hash%20Table)             |        [{Hash Table}](https://github.com/erogluegemen/Data-Structures-and-Algorithms/blob/main/Hash%20Table/hash_table.ipynb)         |
 |[Heap](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Heap)                           |        [{Heap}](https://github.com/erogluegemen/Data-Structures-and-Algorithms/blob/main/Heap/Heap.ipynb)                       |
-| ...                         |                                                                                  |
-| ...                         |                                                                                  |
+| ...                         | ...                                                                              |
+| ...                         | ...                                                                              |
