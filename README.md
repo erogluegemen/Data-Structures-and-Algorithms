@@ -18,4 +18,4 @@
 ### [4.) Hash Table](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Hash%20Table)
 - [Hash Table](https://github.com/erogluegemen/Data-Structures-and-Algorithms/blob/main/Hash%20Table/hash_table.ipynb)
 
-### [5.) Heap]()
+### [5.) Heap](https://github.com/erogluegemen/Data-Structures-and-Algorithms/tree/main/Heap)
