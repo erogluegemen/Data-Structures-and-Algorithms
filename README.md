@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Veri Yapıları ve Algoritma
 - Bu notebook <i>'Veri Yapıları ve Algoritma'</i> alanında Türkçe kaynak oluşturma amacı ile hazırlanmıştır. Dokümanları ve kaynak kodları, bütün çeviriler bitince aşağıdaki <b>#Kaynakça</b> bölümünde bulabilirsiniz.
 <hr>
 
