@@ -18,3 +18,10 @@
 # Big-O Notation Cheat Sheet
 
 ![big-o](https://user-images.githubusercontent.com/30879498/187481746-987cf3f2-ac63-4052-bbaa-8c9a2d594e4b.jpg)
+
+<hr>
+
+# DSA Path
+
+![IMG_0695](https://user-images.githubusercontent.com/30879498/187891714-3d98d7f9-8282-4057-8ef0-181b3aa0ed58.PNG)
+
